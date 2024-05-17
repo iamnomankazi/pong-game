@@ -1,5 +1,5 @@
 # Pong Game Using Pygame
 
-I've built a basic Pong game using python pygame library. You can play it using keyboard's W and S keys for the left side player and ↑ (Up Arrow key) and ↓ (Down Arrow key) for the right side player.
-
-It'll also show who's going to win with the score and winning message.
+Developed this classic Pong game using Python's Pygame library. 
+Players control paddles on either side using the keyboard: W and S for the left, Up and Down arrows for the right. The game features a clean 800x600 pixel window and displays the score to determine the winner.
+I'm planning to add exciting features like an AI opponent that learns to play and challenge players!
